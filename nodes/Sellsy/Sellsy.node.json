@@ -1,0 +1,30 @@
+{
+	"node": "n8n-nodes-sellsy.sellsy",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/agaudin-alt/n8n-nodes-sellsy?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.sellsy.com/api/v2/"
+			}
+		]
+	},
+	"alias": [
+		"sellsy",
+		"crm",
+		"invoice",
+		"facture",
+		"devis",
+		"estimate",
+		"opportunity",
+		"company"
+	]
+}
