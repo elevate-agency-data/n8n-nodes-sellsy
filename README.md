@@ -23,7 +23,7 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 Alternatively, you can manually install it:
 
 ```sh
-git clone https://github.com/agaudin-alt/n8n-nodes-sellsy.git
+git clone https://github.com/elevate-agency-data/n8n-nodes-sellsy.git
 cd n8n-nodes-sellsy
 npm install
 ```

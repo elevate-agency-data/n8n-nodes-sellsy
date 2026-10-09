@@ -11,7 +11,7 @@ export class SellsyOAuth2Api implements ICredentialType {
 	displayName = 'Sellsy OAuth2 API';
 
 	documentationUrl =
-		'https://github.com/agaudin-alt/n8n-nodes-sellsy?tab=readme-ov-file#credentials';
+		'https://github.com/elevate-agency-data/n8n-nodes-sellsy?tab=readme-ov-file#credentials';
 
 	icon: ICredentialType['icon'] = {
 		light: 'file:icons/sellsy.svg',

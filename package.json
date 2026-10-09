@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Node N8N to interact with Sellsy",
   "license": "MIT",
-  "homepage": "https://github.com/agaudin-alt/n8n-nodes-sellsy",
+  "homepage": "https://github.com/elevate-agency-data/n8n-nodes-sellsy",
   "keywords": [
     "n8n-community-node-package",
     "sellsy",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agaudin-alt/n8n-nodes-sellsy.git"
+    "url": "git+https://github.com/elevate-agency-data/n8n-nodes-sellsy.git"
   },
   "scripts": {
     "build": "n8n-node build",

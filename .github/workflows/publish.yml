@@ -92,6 +92,6 @@ jobs:
         # account enforces 2FA on publish, so token auth fails with EOTP in CI
         # (see https://gh.io/npm-gat-bypass2fa-deprecation). The trusted publisher
         # must be registered on the npm package n8n-nodes-sellsy with:
-        #   owner agaudin-alt / repo n8n-nodes-sellsy / workflow publish.yml
+        #   owner elevate-agency-data / repo n8n-nodes-sellsy / workflow publish.yml
         #   and no environment.
         run: npm run release
